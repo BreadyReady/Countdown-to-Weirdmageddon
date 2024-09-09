@@ -1,0 +1,178 @@
+﻿l_english:
+
+ industrial_progress:0 "Industrial Advancement"
+ industrial_progress_desc:0 ""
+ 
+ modern_progress:0 "Modern Advancement"
+ modern_progress_desc:0 ""
+ 
+ ren_infantry_equipment_0:0 "Swords and Spears"
+ ren_infantry_equipment_0_desc:0 "The primary weapons of soldiers, often associated with the Terran Pre-Industrial Age. "
+ 
+ ren_infantry_equipment_1:0 "Arquebus"
+ ren_infantry_equipment_1_desc:0 "An early firearm technology using a stable explosive powder to propel a projectile at deadly velocity. Often use as range support in conjuction with primary melee weaponary."
+ 
+ ren_infantry_equipment_2:0 "Muskets"
+ ren_infantry_equipment_2_desc:0 "A refined early firearm, either muzzled loaded then breached loaded, which allows foot soldiers to engage in range attack. Can be produced in large numbers to make them the main weaponary of most soldiers in any army."
+ 
+ ind_infantry_equipment_1:0 "Repeating Weapons"
+ ind_infantry_equipment_1_desc:0 "Early Industrial Era weapons with a rifled barrel for increased projectile range and accuracy. These weapons are capable of storing several metallic cartridges to allow quick and repeated fire of projectiles at a target before reloading."
+ 
+ ind_infantry_equipment_2:0 "Automatic Weapons"
+ ind_infantry_equipment_2_desc:0 "Late Industrial Era weapons with either semi-automatic or automatic fire and higher capacity rounds. They are capable of allowing continuous and automatic fire, increasing the overall firepower of the regular soldier."
+
+ mod_infantry_equipment_1:0 "Assault Rifles"
+ mod_infantry_equipment_1_desc:0 "Early Modern Rifles design to incorporate the automatic fire of sub-machine guns, and the range and lethality of ranged rifles through the use of intermediate rounds for the perfect balance in infantry weaponry."
+ 
+ mod_infantry_equipment_2:0 "Modern Weapons"
+ mod_infantry_equipment_2_desc:0 "Modern Rifles incorporate the latest advancement in assault rifles with new designs in material, mechanics, and functionality."
+ 
+ mod_infantry_equipment_3:0 "Advanced Weapons"
+ mod_infantry_equipment_3_desc:0 "Advanced Rifles utilized the latest cutting-edge technology to give greater across-the-board firepower and capability to soldiers across the multiverse."
+ 
+ mounted_infantry:0 "Mounted Infantry"
+ mounted_infantry_desc:0 ""
+ 
+ mounted_carriages1:0 "Horse Drawn Carriages"
+ mounted_carriages1_desc:0 ""
+ 
+ mounted_carriages2:0 "Mobile Infantry Carriages"
+ mounted_carriages2_desc:0 ""
+ 
+ mounted_infantry_upgrade1:0 "Pure Breed Animals"
+ mounted_infantry_upgrade1_desc:0 ""
+ 
+ mounted_infantry_upgrade2:0 "Armored Combat Animals"
+ mounted_infantry_upgrade2_desc:0 ""
+ 
+ mounted_infantry_upgrade3:0 "Close Quarter Crowd Control"
+ mounted_infantry_upgrade3_desc:0 "Even in the era of ranged weapons, combat often still ends up close and personal. With modern weaponry to the horseman's arsenal, they are more efficitve now than their past counterparts."
+ 
+ mounted_infantry_upgrade4:0 "Modern Animal Calvary"
+ mounted_infantry_upgrade4_desc:0 "Attaching an advance targeting computer to a horse is bound to bring end well."
+ 
+ tech_special_operation:0 "Special Operation Forces"
+ tech_special_operation_desc:0 "Special Operation Forces consist of the finest soldiers in any army. Their formations come as a natural need for elite units as the Industrial Age begins and warfare becomes more complex. (Unlocked once Industrial Advancement is Complete)"
+ 
+ tech_special_operation_1:0 "Special Operation Integration"
+ tech_special_operation_1_desc:0 "The officers of our special op forces are often both well trained and skilled in both tactical and strategic deployment. By attaching a small contingent of them with our main forces, our frontline commanders would have both greater firepower and expertise at their disposal. They may also advice regular field commanders to improve our main force's capabilities."
+ 
+ #
+ 
+ tech_special_operation_2:0 "Naval And Air Operations"
+ tech_special_operation_2_desc:0 "From the air or the water, special forces are trained to quickly and effectively insert themselves into combat in ways the enemy could hardly expect or prepare for."
+ 
+ tech_special_operation_3:0 "Cross Dimensional Insertion"
+ tech_special_operation_3_desc:0 "Operations between dimensions require not only 4D but 5D conception and coordination in order to insert special forces in the right latitude, the right longitude, the right height, the right time, and the right realm of reality."
+ 
+ #
+ 
+ tech_special_operation_4:0 "Special Advisors"
+ tech_special_operation_4_desc:0 "Having special force advisors attached with the conventional forces would ensure they have the knowledge and tactics to fight the enemy with increased effectiveness."
+ 
+ tech_special_operation_5:0 "Enhanced Regular Trooper Training"
+ tech_special_operation_5_desc:0 "The critical skills our special force troops have come from years of experiences. Though some things can only be learned in combat, many of these skills can be trained into new troops.\n\nSome things are better learned the easy way than the hard way."
+ 
+ #
+ 
+ tech_special_operation_6:0 "Rural Combat Training"
+ tech_special_operation_6_desc:0 "From the cold mountains of Cascadia, the deadly forest of Mewni, the hostile jungles of Amphibia and the scorching lands of the Boiling Isles, our elite forces know no land that can't be overcome."
+ 
+ tech_special_operation_7:0 "Deep Strike Force"
+ tech_special_operation_7_desc:0 "The Multiverse is a vast and wild place. No matter where the fight is, our best can fight anywhere and anytime. Even far from home, they shall hold the line and bring the fight to the enemy's doorstep."
+ 
+ #
+ 
+ tech_special_operation_8:0 "Urban Combat Training"
+ tech_special_operation_8_desc:0 "Urbanization is a natural development path for most civilizations in the multiverse. Fighting in any urban setting is difficult and deadly. It takes a truly elite and discipline soldier to fight and win in the crowded streets of either Los Angeles or Bonesborough."
+ 
+ tech_special_operation_9:0 "Fast Strike Force"
+ tech_special_operation_9_desc:0 "There is only one true fact in the multiverse, besides all the Soos.\n\nTime is of the Essence. So strike fast, strike deep, and keep striking."
+ 
+ #
+ 
+ tech_special_operation_10:0 "Modernize Special Forces"
+ tech_special_operation_10_desc:0 "Fighting is an art dating back to the dawn of time. But with every passing era, something new is always added to the ancient art of combat. Tradition is a foundation. But Modernization is the fortress you build off it.\n"
+ 
+ tech_special_operation_11:0 "Superior Training And Equipment"
+ tech_special_operation_11_desc:0 "A poor soldier blames their weapons. But a good soldier wouldn't mind having a better weapon thought."
+ 
+ #
+ tech_special_operation_12_check:0 "Condition: Chemical Stimulus Authorized"
+ 
+ tech_special_operation_12:0 "Enhanced Combat Stimulus"
+ tech_special_operation_12_desc:0 "Even the best of the best is bound by the weakness of the flesh. But nothing the finest medications from the lab can't solve.\n"
+ 
+ tech_special_operation_13:0 "Mind Altering Stimulus"
+ tech_special_operation_13_desc:0 "For one pill makes you larger and one pill makes you small.\n\nAnd the one that mother gives you might cause a couple of war crimes.\n\nGo ask the United League of Nations I think they'll know..."
+ 
+ #
+ 
+ tech_special_operation_14:0 "The Finest In The Multiverse"
+ tech_special_operation_14_desc:0 "They are the Few.\n\nThey are the Elite.\n\nThey are the Finest Soldiers of the Multiverse."
+ 
+ tech_special_operation_15:0 "The Finest In The Multiverse"
+ tech_special_operation_15_desc:0 ""
+ 
+ basic_roads:0 "Government Roadworks"
+ basic_roads_desc:0 "Typically, roads are made naturally in high foot traffic paths. However, the government can deliberately pave high quality roads to boost supply flow."
+ 
+ basic_wagon:0 "Supply Wagons"
+ basic_wagon_desc:0 "Armies march and Nations thrive on their stomachs. Having something to move food and supplies around in large numbers is crucial to victory."
+ tech_magic_forces_check:0 "Condition: Can research $tech_magic_forces$"
+ cat_magic_spec_ops:0 "Magical Tech"
+ 
+ tech_magic_forces:0 "Magic Forces"
+ tech_magic_forces_desc:0 "Magic's potential as a weapon has made it's military application a common occurrence throughout the multiverse, often being developed independently before interdimensional contact. (Unlocked through Event or National Focus)"
+ 
+ magic_equipment_1:0 "Magic Equipment"
+ magic_equipment_1_desc:0 "Magic's potential as a weapon has made it's military application a common occurrence throughout the multiverse, often being developed independently before interdimensional contact. (Unlocked through Event or National Focus)"
+
+ tech_magic_forces_1:0 "Magical Organization"
+ tech_magic_forces_1_desc:0 "Magic has the ability to streamline communications through messenger teleportation, and magic can also organize crowds of people by displaying grand flags with moving images. (Support Company)"
+
+ ###
+
+ mewni_magic_forces:0 "Elite Magic Users"
+ mewni_magic_forces_desc:0 "Magic is a powerful tool which many cannot master to it's fullest extent. Often, it is those who have a long familial tradition and history of magic use who can unlock the true potential in magic."
+
+ mewni_magic_forces_1:0 "Area of Effect"
+ mewni_magic_forces_1_desc:0 "Area of Effect attacks can throw large amounts of unarmored attackers into disarray"
+ 
+ mewni_magic_forces_2:0 "Precise Strike"
+ mewni_magic_forces_2_desc:0 "Precise Strike attacks can deal massive amounts of damage to strong, armored enemies."
+ 
+ mewni_magic_forces_3:0 "The Magical Few"
+ mewni_magic_forces_3_desc:0 "Those with the privilege to use magic always feel a sense of strength with it, and this strength translates into iron will and duty for the vast majority of people."
+
+ ###
+
+ bi_magic_forces:0 "Magic Schools"
+ bi_magic_forces_desc:0 "Magic is a powerful tool and it's basics can be taught to anyone. Often, one magical master cannot turn the tides of war, but one hundred thousand novices can."
+ 
+ bi_magic_forces_1:0 "Universal Magic Standards"
+ bi_magic_forces_desc_1:0 ""
+ 
+ bi_magic_forces_2:0 "Division of Magic Labor"
+ bi_magic_forces_desc_2:0 ""
+ 
+ bi_magic_forces_3:0 "Law and Paranormal Order"
+ bi_magic_forces_desc_3:0 "" 
+ 
+ ###
+ 
+ general_magic_improvement_1:0 "Magical Logistics"
+ general_magic_improvement_1_desc:0 "In theory, magic can ease up the burdun of logistics. In reality, the art of magical logistics is a science onto itself"
+ 
+ general_magic_improvement_2:0 "Protective Aurora"
+ general_magic_improvement_2_desc:0 "Through Magical Trooper integration, a passive protetive aurora can be cast otno all our troops, protetiveing them at critical moments."
+ 
+ general_magic_improvement_3:0 "Technological Clash"
+ general_magic_improvement_3_desc:0 "As technology advances pass Magic, magic must adapt to fighting the tools of the industrial and modern world. Two intertwined rules of the multiverse, locked in battle for an unachievable surpremacy."
+
+ magiography:0 "Magigraphic Inspiration"
+ magiography_desc:0 "Giant, "magigraphic" images raise troop morale. These images can range from national symbols blocking out the skies to mythical dragons lighting the ground aflame. The possibilities are endless."
+
+ magic_unleashed:0 "Magical Golden Age"
+ magic_unleashed_desc:0 "Many dimensions experience technological golden ages, but few dimensions experience a magical golden age. At this stage, spells are no longer discovered; they are invented."
+ 
