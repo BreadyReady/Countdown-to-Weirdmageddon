@@ -23,10 +23,15 @@ technologies = {
 	industrial_progress = {
 	
 		dependencies = {
-			industrial_progress_check = 1
+			#industrial_progress_check = 1
+			
+			infantry_weapons4 = 1
+			support_weapons = 1 
+			tech_support = 1
+			basic_roads = 1
 		}
 		
-		research_cost = 3
+		research_cost = 2
 		
 		##start_year = 1800
 		
@@ -59,10 +64,19 @@ technologies = {
 	
 		dependencies = {
 			industrial_progress = 1
-			modern_progress_check = 1
+			#modern_progress_check = 1
+			
+			radio_detection = 1
+			computing_machine = 1
+			
+			improved_machine_tools = 1
+			construction2 = 1
+			oil_processing = 1
+			rubber_processing = 1
+			fuel_refining = 1
 		}
 		
-		research_cost = 6
+		research_cost = 4
 		
 		##start_year = 2000
 		

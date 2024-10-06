@@ -2,18 +2,15 @@ ideologies = {
 	
 	democratic = {
 	
-		types = {
-			
-			cal_demo_ideology_start = { }
-			
-			
-			
+		types = {	
 			
 			#### Base Game Sub-Ideologies
 			conservatism = { } 
 			liberalism = { }
 			socialism = { }
 			####
+			#cal_demo_ideology_start = { }
+		
 		}
 		
 		dynamic_faction_names = {
@@ -39,7 +36,7 @@ ideologies = {
 			can_join_factions = no
 		}
 		
-		can_host_government_in_exile = yes
+		can_host_government_in_exile = no
 		
 		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
 		faction_impact_on_world_tension = 0.1

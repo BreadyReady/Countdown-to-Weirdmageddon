@@ -1,5 +1,7 @@
 ﻿l_english:
 
+ ### The word Copy is needed for this file to work. Who knows why?
+
  industrial_progress:0 "Industrial Advancement"
  industrial_progress_desc:0 ""
  
@@ -30,8 +32,33 @@
  mod_infantry_equipment_3:0 "Advanced Weapons"
  mod_infantry_equipment_3_desc:0 "Advanced Rifles utilized the latest cutting-edge technology to give greater across-the-board firepower and capability to soldiers across the multiverse."
  
+ #
+ 
+ infantry_weapons1:0 "Weapon Upgrade 1"
+ infantry_weapons1_desc:0 ""
+ 
+ infantry_weapons3:0 "Weapon Upgrade 2"
+ infantry_weapons3_desc:0 ""
+ 
+ infantry_weapons5:0 "Weapon Upgrade 3"
+ infantry_weapons5_desc:0 ""
+ 
+ infantry_weapons7:0 "Weapon Upgrade 4"
+ infantry_weapons7_desc:0 ""
+
+ infantry_weapons9:0 "Weapon Upgrade 5"
+ infantry_weapons9_desc:0 ""
+ 
+ infantry_weapons11:0 "Weapon Upgrade 6"
+ infantry_weapons11_desc:0 ""
+ 
+ infantry_weapons13:0 "Weapon Upgrade 7"
+ infantry_weapons13_desc:0 ""
+ 
+ #
+ 
  mounted_infantry:0 "Mounted Infantry"
- mounted_infantry_desc:0 ""
+ mounted_infantry_desc:0 "Well I wanna be in the cavalry if they send me off to war\nI wanna good steed under me like my forefathers before\nI wanna good mount when the bugle sounds and I hear the cannons' roar\nWell I wanna be in the cavalry if they send me off to war"
  
  mounted_carriages1:0 "Horse Drawn Carriages"
  mounted_carriages1_desc:0 ""
@@ -49,7 +76,9 @@
  mounted_infantry_upgrade3_desc:0 "Even in the era of ranged weapons, combat often still ends up close and personal. With modern weaponry to the horseman's arsenal, they are more efficitve now than their past counterparts."
  
  mounted_infantry_upgrade4:0 "Modern Animal Calvary"
- mounted_infantry_upgrade4_desc:0 "Attaching an advance targeting computer to a horse is bound to bring end well."
+ mounted_infantry_upgrade4_desc:0 "Attaching an advance targeting computer to a horse is bound to end well."
+ 
+ #
  
  tech_special_operation:0 "Special Operation Forces"
  tech_special_operation_desc:0 "Special Operation Forces consist of the finest soldiers in any army. Their formations come as a natural need for elite units as the Industrial Age begins and warfare becomes more complex. (Unlocked once Industrial Advancement is Complete)"
@@ -148,16 +177,16 @@
  ###
 
  bi_magic_forces:0 "Magic Schools"
- bi_magic_forces_desc:0 "Magic is a powerful tool and it's basics can be taught to anyone. Often, one magical master cannot turn the tides of war, but one hundred thousand novices can."
+ bi_magic_forces_desc:0 "Magic is a powerful tool and it's basics can be taught to anyone. Often, one magical master cannot turn the tides of war, but a one hundred thousand novices can."
  
  bi_magic_forces_1:0 "Universal Magic Standards"
- bi_magic_forces_desc_1:0 ""
+ bi_magic_forces_1_desc:0 ""
  
  bi_magic_forces_2:0 "Division of Magic Labor"
- bi_magic_forces_desc_2:0 ""
+ bi_magic_forces_2_desc:0 ""
  
  bi_magic_forces_3:0 "Law and Paranormal Order"
- bi_magic_forces_desc_3:0 "" 
+ bi_magic_forces_3_desc:0 "" 
  
  ###
  
@@ -165,10 +194,10 @@
  general_magic_improvement_1_desc:0 "In theory, magic can ease up the burdun of logistics. In reality, the art of magical logistics is a science onto itself"
  
  general_magic_improvement_2:0 "Protective Aurora"
- general_magic_improvement_2_desc:0 "Through Magical Trooper integration, a passive protetive aurora can be cast otno all our troops, protetiveing them at critical moments."
+ general_magic_improvement_2_desc:0 "Through Magical Trooper integration, a passive protetive aurora can be cast onto all our troops, protecting them at critical moments."
  
  general_magic_improvement_3:0 "Technological Clash"
- general_magic_improvement_3_desc:0 "As technology advances pass Magic, magic must adapt to fighting the tools of the industrial and modern world. Two intertwined rules of the multiverse, locked in battle for an unachievable surpremacy."
+ general_magic_improvement_3_desc:0 "As technology advances past Magic, magic must adapt to fighting the tools of the industrial and modern world. Two intertwined rules of the multiverse, locked in a battle for an unachievable surpremacy."
 
  magiography:0 "Magigraphic Inspiration"
  magiography_desc:0 "Giant, "magigraphic" images raise troop morale. These images can range from national symbols blocking out the skies to mythical dragons lighting the ground aflame. The possibilities are endless."

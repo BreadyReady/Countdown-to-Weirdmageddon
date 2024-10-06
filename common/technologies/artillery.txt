@@ -6,7 +6,6 @@ technologies = {
 			industrial_progress = 1
 		}
 
-
 		enable_equipments = {
 			artillery_equipment_1
 		}
@@ -63,6 +62,10 @@ technologies = {
 	}
 
 	interwar_artillery = {
+		
+		dependencies = {
+			industrial_progress = 1
+		}
 
 		artillery = {
 			soft_attack = 0.1
@@ -612,6 +615,10 @@ technologies = {
 
 	interwar_antiair = {
 
+		dependencies = {
+			industrial_progress = 1
+		}
+
 		enable_equipments = {
 			anti_air_equipment_1
 		}
@@ -936,7 +943,11 @@ technologies = {
 	}
 
 	interwar_antitank = {
-
+		
+		dependencies = {
+			industrial_progress = 1
+		}
+		
 		enable_equipments = {
 			anti_tank_equipment_1
 		}

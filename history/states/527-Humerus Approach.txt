@@ -1,0 +1,19 @@
+state={
+	id=527
+	name="STATE_527"
+	history={
+		owner = BOI
+		add_core_of = BOI
+		buildings = {
+		}
+		#victory_points = { }
+
+	}
+	provinces={
+		2811 2871 4969 5093 5109 6207 7229 8891 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

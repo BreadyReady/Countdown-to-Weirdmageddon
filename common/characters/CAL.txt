@@ -12,7 +12,7 @@ characters = {
 		}
 		country_leader = {
 			desc = "POLITICS_GREEN_DESC"
-			ideology = cal_demo_ideology_start
+			ideology = liberalism
 			traits = { cal_longtime_governor }
 			expire = "2040.1.1.1"
 			id = -1

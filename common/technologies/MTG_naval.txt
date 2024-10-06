@@ -9,9 +9,6 @@ technologies = {
 
 	early_ship_hull_light = {
 		
-		dependencies = {
-			industrial_progress = 1
-		}
 		enable_equipments = {
 			ship_hull_light_1
 		}
@@ -67,6 +64,10 @@ technologies = {
 	}
 
 	basic_ship_hull_light = {
+
+		dependencies = {
+			industrial_progress = 1
+		}
 
 		enable_equipments = {
 			ship_hull_light_2
@@ -274,6 +275,10 @@ technologies = {
 	}
 	improved_depth_charges = {
 
+		dependencies = {
+			industrial_progress = 1
+		}
+
 		enable_equipment_modules = {
 			ship_depth_charge_2
 		}
@@ -363,6 +368,10 @@ technologies = {
 	}
 	modern_depth_charges = {
 
+		dependencies = {
+			modern_progress = 1
+		}
+
 		enable_equipment_modules = {
 			ship_depth_charge_4
 		}
@@ -444,6 +453,11 @@ technologies = {
 	}
 
 	improved_sonar = {
+	
+		dependencies = {
+			industrial_progress = 1
+		}
+	
 		enable_equipment_modules = {
 			ship_sonar_2
 		}
@@ -707,6 +721,10 @@ technologies = {
 	}
 	basic_cruiser_armor_scheme = {
 
+		dependencies = {
+			industrial_progress = 1
+		}
+
 		enable_equipment_modules = {
 			ship_armor_cruiser_2
 		}
@@ -765,6 +783,10 @@ technologies = {
 
 
 	early_ship_hull_heavy = {
+
+		dependencies = {
+			industrial_progress = 1
+		}
 
 		enable_equipments = {
 			ship_hull_heavy_1
@@ -1089,7 +1111,12 @@ technologies = {
 #  # #  # #  # #  #  #  #   #  #   #
  ##  #  # #  # #  # ### ### #  # ##
 
-early_ship_hull_carrier = {
+	early_ship_hull_carrier = {
+
+		dependencies = {
+			industrial_progress = 1
+		}
+
 
 		enable_equipments = {
 			ship_hull_carrier_conversion_bb
@@ -1260,6 +1287,10 @@ early_ship_hull_carrier = {
 #(_)-(_)     ##   ##  ###  #   # #  # #  # ### #  # ### ##
 
 	early_ship_hull_submarine = {
+
+		dependencies = {
+			industrial_progress = 1
+		}
 
 		enable_equipments = {
 			ship_hull_submarine_1
