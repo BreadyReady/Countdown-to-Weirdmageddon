@@ -24,8 +24,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			desc = liberalism
-			ideology = l
+			ideology = liberalism
 			expire = "2040.1.1.1"
 			id = -1
 		}
