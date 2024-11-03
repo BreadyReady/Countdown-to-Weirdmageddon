@@ -1,5 +1,5 @@
-version="0.3.5"
-name="CtW_0.3.5"
+version="0.3.6"
+name="CtW_0.3.6"
 tags={
 	"Alternative History"
 	"Map"
@@ -52,4 +52,4 @@ replace_path="map/strategicregions"
 replace_path="map/supplyareas"
 picture="thumbnail.png"
 supported_version="1.14.*"
-path="C:/Users/Ian/Documents/Paradox Interactive/Hearts of Iron IV/mod/CtW_0.3.5"
+path="C:/Users/Ian/Documents/Paradox Interactive/Hearts of Iron IV/mod/CtW_0.3.6"
